@@ -21,8 +21,10 @@ _morning_
 try this:
 
 * Install Postman
-* Use postman to make a GET request to https://http-challenge.multiverse-coaches.io
+* Use postman to make a GET request to [https://http-challenge.multiverse-coaches.io](https://http-challenge.multiverse-coaches.io)
 * Follow the instructions. The [Quiz is here](https://quizizz.com/admin/quiz/5e18b9ab2a9095001be32056/http)
+
+[watch the video](https://www.loom.com/share/99087b5fc4ec4f77979a00f6863cfcdf)
 
 _afternoon_
 
