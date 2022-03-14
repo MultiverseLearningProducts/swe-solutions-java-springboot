@@ -31,6 +31,7 @@ _afternoon_
 >try:
 >* [https://start.spring.io](https://start.spring.io)
 >* Hello world with a Springboot server
+>[watch the video](https://www.loom.com/share/6edc18bfe45e4560b73b804820b19190)
 
 [ATTENDANCE LOG](https://platform.multiverse.io/apprentice/attendance-log/2775)
 
