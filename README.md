@@ -50,6 +50,7 @@ _afternoon_
 >try to:
 >* Create RESTful routes for the Restaurant Entity
 
+[Watch the video](https://www.loom.com/share/537dbc808a724f7092cdbef91e23b4ba)
 [ATTENDANCE LOG](https://platform.multiverse.io/apprentice/attendance-log/2776)
 
 ----
